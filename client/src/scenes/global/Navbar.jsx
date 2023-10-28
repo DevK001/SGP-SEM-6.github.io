@@ -54,7 +54,7 @@ function Navbar() {
           sx={{ "&:hover": { cursor: "pointer" } }}
           color={shades.secondary[500]}
         >
-          VEHICLE SPARE PARTS AND ACCESORIES ONLINE
+          Book Store E-Commerce website
         </Box>
         <Box
           display="flex"

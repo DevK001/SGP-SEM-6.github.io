@@ -24,7 +24,7 @@ function Footer() {
             mb="30px"
             color={shades.secondary[500]}
           >
-          VEHICLE SPARE PARTS AND ACCESORIES ONLINE
+           Book Store E-Commerce website
           </Typography>
           <div>
             utr75e cytf7dfc gd6u654d ytd65dc hytd6rxc gfd6urc cc5dcytdd6rc

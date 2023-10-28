@@ -1,8 +1,9 @@
 const awsExports = {
     Auth : {
-        'userPoolId' : 'ap-south-1_P2i0maJZj',
-        'userPoolWebClientId':'7t6bpoe8fp32o4vsaouldbjaoh'
+        'userPoolId' : 'us-east-1_feAFJOmN7',
+        'userPoolWebClientId':'57s5bkfsttghiuftp8af8f0541'
     }
 }
+
 
 export default awsExports;

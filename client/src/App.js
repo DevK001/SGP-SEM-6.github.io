@@ -29,7 +29,7 @@ const ScrollToTop = () => {
 export default function App() {
   return (
       <Authenticator socialProviders ={['amazon','apple','facebook','google']}>
-        {({signOut, user}) => {
+        {({signOut, user }) => {
           console.log("user",user);
           return (
             <>
@@ -45,7 +45,6 @@ export default function App() {
                 <Chat/>
                 <CartMenu />
                 <Footer />
-                
               </BrowserRouter>
             </>
             )
